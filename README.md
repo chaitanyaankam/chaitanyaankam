@@ -8,6 +8,7 @@ React JS, Angular 8, Typescript
 Redis, Elastic Search & Gem Fire
 Cloud Adaptation (AWS & Vmware PCF)
 Jenkins CICD
+
 🌱 I’m currently learning AI/ML libraries using python
 
 💞️ I’m looking to collaborate on anything enterprise web-applications and products
