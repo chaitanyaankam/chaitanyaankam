@@ -1,16 +1,94 @@
-👋 Hi welcome to my profile page. I’m Chaitanya I live in Hyderabad, India
+# 👋 Hi, I'm Chaitanya!
 
-👀 I’m a Software Developer who have hands-on experience on the following:
+🚀 **Software Engineer | Backend & Full-Stack Developer | Exploring LLM Engineering**
 
-Java 11*, Python, Java Script, Shell Script
-Spring Boot (spring-core, spring cloud, spring ORM, spring data, spring-batch, spring web, etc,.)
-React JS, Angular 8, Typescript
-Redis, Elastic Search & Gem Fire
-Cloud Adaptation (AWS & Vmware PCF)
-Jenkins CICD
+I'm a Software Engineer based in **Hyderabad, India**, passionate about building scalable, reliable, and high-performance software solutions.
 
-🌱 I’m currently learning AI/ML libraries using python
+I have hands-on experience designing and developing enterprise applications, REST APIs, distributed systems, and cloud-based solutions. I enjoy exploring emerging technologies and turning ideas into practical products.
 
-💞️ I’m looking to collaborate on anything enterprise web-applications and products
+## 💻 Tech Stack & Skills
 
-📫 Please reach me on chaitanya.ankam@gmail.com
+### Programming Languages
+- Java (11+)
+- Python
+- JavaScript
+- TypeScript
+- Shell Scripting
+
+### Backend Development
+- Spring Boot
+- Spring Framework (Core, Cloud, Data, ORM, Batch, Web)
+- REST API Development
+- Microservices Architecture
+- Enterprise Application Development
+
+### Frontend & Mobile Development
+- React.js
+- Angular
+- TypeScript
+- React Native
+
+### Databases & Caching
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
+- Elasticsearch
+- GemFire
+
+### Cloud & DevOps
+- AWS
+- VMware Tanzu / PCF
+- Docker
+- Kubernetes
+- Jenkins
+- CI/CD Pipelines
+- Git & GitHub
+
+### 🧠 LLM & AI Engineering
+Currently exploring the world of Large Language Models and building intelligent, AI-powered applications.
+
+- Building and experimenting with LLM-powered applications
+- Understanding LLM architectures, inference, and fine-tuning
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases and Semantic Search
+- Prompt Engineering
+- AI Agents and Agentic Workflows
+- Exploring LangChain and Hugging Face
+- Experimenting with open-source and locally running LLMs
+- Integrating LLMs into enterprise applications
+
+## 🌱 Currently Exploring
+- Building and experimenting with Large Language Models (LLMs)
+- Developing AI-powered applications and intelligent agents
+- RAG pipelines and enterprise AI solutions
+- Running and experimenting with open-source LLMs locally
+- Modern mobile application development with React Native
+- Cloud-native architectures and distributed systems
+
+## 💡 Areas of Interest
+- Enterprise Application Development
+- Backend Engineering & Microservices
+- Full-Stack & Mobile Development
+- Cloud-Native Applications
+- AI & LLM Engineering
+- Generative AI and Agentic AI
+- Open-Source Technologies
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to collaborate on:
+- Innovative enterprise applications and products
+- Open-source projects
+- AI-powered applications and LLM-based solutions
+- Scalable backend systems and cloud-native applications
+- Interesting ideas that solve real-world problems
+
+## 📫 Connect With Me
+
+- 📧 Email: [chaitanya.ankam@gmail.com](mailto:chaitanya.ankam@gmail.com)
+- 📍 Hyderabad, India
+
+---
+
+⭐ **Always curious. Always learning. Always building.**
