@@ -10,6 +10,7 @@ I have hands-on experience designing and developing enterprise applications, RES
 
 ### Programming Languages
 - Java (11+)
+- C#, C++
 - Python
 - JavaScript
 - TypeScript
@@ -48,23 +49,17 @@ I have hands-on experience designing and developing enterprise applications, RES
 ### 🧠 LLM & AI Engineering
 Currently exploring the world of Large Language Models and building intelligent, AI-powered applications.
 
-- Building and experimenting with LLM-powered applications
 - Understanding LLM architectures, inference, and fine-tuning
 - Retrieval-Augmented Generation (RAG)
 - Vector Databases and Semantic Search
-- Prompt Engineering
+- Prompt Engineering, Generative AI use-cases
 - AI Agents and Agentic Workflows
-- Exploring LangChain and Hugging Face
-- Experimenting with open-source and locally running LLMs
 - Integrating LLMs into enterprise applications
 
 ## 🌱 Currently Exploring
 - Building and experimenting with Large Language Models (LLMs)
-- Developing AI-powered applications and intelligent agents
-- RAG pipelines and enterprise AI solutions
-- Running and experimenting with open-source LLMs locally
-- Modern mobile application development with React Native
-- Cloud-native architectures and distributed systems
+- Exploring LangChain and Hugging Face
+- Experimenting with open-source and locally running LLMs
 
 ## 💡 Areas of Interest
 - Enterprise Application Development
